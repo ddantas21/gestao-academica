@@ -1,0 +1,2 @@
+D01;Programação Orientada a Objetos;80;P01;10
+D02;Engenharia de Requisitos;60;P02;20
