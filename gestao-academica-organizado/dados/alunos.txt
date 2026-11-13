@@ -1,3 +1,2 @@
 202301;João Silva;123.456.789-00;joao.silva@email.com;10
 202302;Maria Oliveira;987.654.321-00;maria.oliveira@email.com;20
-2025731;Daniel;511.683.358-50;daniel@gmail.com;10
